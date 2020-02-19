@@ -1,2 +1,2 @@
 # PostgreSQL
-# Lectures slides of Advanced Manangement of Database
+Lectures slides of Advanced Manangement of Database
